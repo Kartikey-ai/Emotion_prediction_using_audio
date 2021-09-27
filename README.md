@@ -12,10 +12,15 @@ Entie data could either be converted to a matrix, bunch of matrix, or there are 
 Only then algorithms like CNN or LSTM could be used on it.
 
 ![Alt text](/preprocessing/images/audio 6.JPG?raw=true "Optional Title")
+
 ![Alt text](/preprocessing/images/audio 2.JPG?raw=true "Optional Title")
+
 ![Alt text](/preprocessing/images/audio 3.JPG?raw=true "Optional Title")
+
 ![Alt text](/preprocessing/images/audio.JPG?raw=true "Optional Title")
+
 ![Alt text](/preprocessing/images/audio 4.JPG?raw=true "Optional Title")
+
 ![Alt text](/preprocessing/images/audio 5.JPG?raw=true "Optional Title")
 
 
