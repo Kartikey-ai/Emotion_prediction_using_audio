@@ -11,17 +11,17 @@ So first we need to preprocess the data so that it could be useful.
 Entie data could either be converted to a matrix, bunch of matrix, or there are many other ways of handling them.
 Only then algorithms like CNN or LSTM could be used on it.
 
-![Alt text](images/audio6.JPG?raw=true "Optional Title")
+![Alt text](Image/audio6.JPG?raw=true "Optional Title")
 
-![Alt text](images/audio2.JPG?raw=true "Optional Title")
+![Alt text](Image/audio2.JPG?raw=true "Optional Title")
 
-![Alt text](images/audio3.JPG?raw=true "Optional Title")
+![Alt text](Image/audio3.JPG?raw=true "Optional Title")
 
-![Alt text](images/audio.JPG?raw=true "Optional Title")
+![Alt text](Image/audio.JPG?raw=true "Optional Title")
 
-![Alt text](images/audio4.JPG?raw=true "Optional Title")
+![Alt text](Image/audio4.JPG?raw=true "Optional Title")
 
-![Alt text](images/audio5.JPG?raw=true "Optional Title")
+![Alt text](Image/audio5.JPG?raw=true "Optional Title")
 
 
 ## Models testing
