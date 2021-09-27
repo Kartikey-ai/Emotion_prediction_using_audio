@@ -1,7 +1,7 @@
 # Emotion_prediction_using_audio
 
-Objective was to develop an audio classification algorithm 
-that could predict the emotion of a user using his audio and speech data.
+The objective was to get an audio data classification algorithm 
+to predict the emotions of a person based on his speech and audio data
 
 ## Preprocessing
 
@@ -11,11 +11,12 @@ So first we need to preprocess the data so that it could be useful.
 Entie data could either be converted to a matrix, bunch of matrix, or there are many other ways of handling them.
 Only then algorithms like CNN or LSTM could be used on it.
 
-![Alt text](Image/audio6.JPG?raw=true "Optional Title")
 
 ![Alt text](Image/audio2.JPG?raw=true "Optional Title")
 
 ![Alt text](Image/audio3.JPG?raw=true "Optional Title")
+
+![Alt text](Image/audio6.JPG?raw=true "Optional Title")
 
 ![Alt text](Image/audio.JPG?raw=true "Optional Title")
 
