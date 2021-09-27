@@ -11,6 +11,8 @@ So first we need to preprocess the data so that it could be useful.
 Entie data could either be converted to a matrix, bunch of matrix, or there are many other ways of handling them.
 Only then algorithms like CNN or LSTM could be used on it.
 
+![Alt text](/preprocessing/images/audio.jpg?raw=true "Optional Title")
+
 ## Models testing
 
 We tried and tested CNN, LSTM and other deep learning models but after multiple attempts it was shown that CNN gave better results
